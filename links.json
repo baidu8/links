@@ -1,12 +1,5 @@
 [
   {
-    "name": "测试",
-    "url": "https://828111.xyz",
-    "avatar": "https://828111.xyz/logo.png",
-    "desc": "这是一个样板，回头会被脚本处理",
-    "fail_count": 0
-  },
-  {
     "name": "导航",
     "url": "https://8.828111.xyz/",
     "avatar": "https://828111.xyz/logo.png",
