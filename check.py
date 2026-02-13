@@ -2,8 +2,8 @@ import requests
 import json
 import os
 
-# 配置：改成大爷您的域名
-MY_URL = "baidu8.github.io"
+
+MY_URL = "828111.xyz"
 
 def check_backlink(url):
     try:
