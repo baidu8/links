@@ -4,6 +4,6 @@
     "url": "https://example.com",
     "avatar": "https://example.com/avatar.png",
     "desc": "这是一个样板，回头会被脚本处理",
-    "fail_count": 1
+    "fail_count": 2
   }
 ]
